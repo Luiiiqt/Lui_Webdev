@@ -1,1 +1,5 @@
-Hello
+Hello 
+
+git add .
+git commit -m "Initial commit (description)"
+git push
