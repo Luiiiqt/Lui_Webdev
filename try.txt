@@ -1,5 +1,6 @@
 Hello 
 
-git add .
-git commit -m "Initial commit (description)"
-git push
+Steps to update in Github
+1. git add .
+2. git commit -m "Initial commit (description)"
+3. git push
