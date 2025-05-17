@@ -111,13 +111,3 @@ main{
     margin-top: auto;
     margin-bottom: 20px;
 }
-  
-  .user-profile img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-}
-
-.user-profile div {
-    margin-left: 0;
-}
